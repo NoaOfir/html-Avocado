@@ -1,4 +1,4 @@
-#poster{
+.poster{
     width: 50%;
     margin-left: 25%;
     margin-top: 100px;
@@ -7,7 +7,7 @@
 
     
 }
-img{
+.avo-pic{
     width: 100%;
     border: 10PX solid white;
 }
